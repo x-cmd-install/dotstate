@@ -12,6 +12,18 @@ A modern, secure, and user-friendly dotfile manager built with Rust
 x install dotstate
 ```
 
+## 代码规模
+
+合计: **43,022** 行代码（覆盖前 5 种语言、共 **99** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 35,338 | 3,002 | 5,158 | 91 |
+| Json | 5,983 | 0 | 0 | 3 |
+| Css | 1,066 | 29 | 28 | 1 |
+| Sh | 383 | 20 | 40 | 2 |
+| Xml | 144 | 0 | 0 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/serkanyersen/dotstate>
@@ -23,6 +35,25 @@ x install dotstate
 - **最新版本**: `v0.3.4` (2026-05-17)
 - **最近提交**: 2026-07-08
 - **Release 含资产**: 8 个
+
+## 流行度
+
+- **Star**: 376 · **Fork**: 13 · **开放 issue**: 30 · **贡献者**: 4
+
+## 累计统计
+
+- **发布数**: 43 · **已合并 PR**: 24 · **开放 PR**: 2 · **已关闭 issue**: 28 · **开放 issue**: 2 · **提交数**: 290
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 1 | 3 |
+| last180d | 2026-03-14 | 3 | 1 | 2 | 5 | 2 | 24 |
+| 360d | 2025-09-15 | 43 | 24 | 2 | 28 | 2 | 282 |
+| last720d | 2024-09-20 | 43 | 24 | 2 | 28 | 2 | 290 |
 
 ## Release 资产
 
@@ -37,34 +68,6 @@ x install dotstate
 | [dotstate-x86_64-unknown-linux-musl.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-unknown-linux-musl.tar.gz) | 9.2 MiB | `native/linux/x64/musl` |
 | [dotstate-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/x64/musl` |
 
-## 流行度
-
-- **Star**: 375 · **Fork**: 13 · **开放 issue**: 30 · **贡献者**: 4
-
-## 累计统计
-
-- **发布数**: 43 · **已合并 PR**: 24 · **开放 PR**: 2 · **已关闭 issue**: 28 · **开放 issue**: 2 · **提交数**: 290
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 1 | 3 |
-| 360d | 2025-09-15 | 43 | 24 | 2 | 28 | 2 | 282 |
-
-## 代码规模
-
-合计: **43,022** 行代码（覆盖前 5 种语言、共 **99** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 35,338 | 3,002 | 5,158 | 91 |
-| Json | 5,983 | 0 | 0 | 3 |
-| Css | 1,066 | 29 | 28 | 1 |
-| Sh | 383 | 20 | 40 | 2 |
-| Xml | 144 | 0 | 0 | 2 |
-
 ## 改进这些数据
 
 dotstate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dotstate` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +77,4 @@ dotstate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:51Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:44:42Z._
