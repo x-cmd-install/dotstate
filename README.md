@@ -23,11 +23,23 @@ x install dotstate
 - **Latest**: `v0.3.4` (2026-05-17)
 - **Last commit**: 2026-07-08
 - **Assets in release**: 8
-- **Published**: 2026-05-17T09:09:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dotstate-aarch64-apple-darwin.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-aarch64-apple-darwin.tar.gz) | 8.0 MiB | `native/darwin/arm64` |
+| [dotstate-aarch64-apple-darwin.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-aarch64-apple-darwin.tar.gz.sha256) | 65 B | `native/darwin/arm64` |
+| [dotstate-aarch64-unknown-linux-musl.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-aarch64-unknown-linux-musl.tar.gz) | 9.2 MiB | `native/linux/arm64/musl` |
+| [dotstate-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-aarch64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/arm64/musl` |
+| [dotstate-x86_64-apple-darwin.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-apple-darwin.tar.gz) | 7.9 MiB | `native/darwin/x64` |
+| [dotstate-x86_64-apple-darwin.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-apple-darwin.tar.gz.sha256) | 65 B | `native/darwin/x64` |
+| [dotstate-x86_64-unknown-linux-musl.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-unknown-linux-musl.tar.gz) | 9.2 MiB | `native/linux/x64/musl` |
+| [dotstate-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 377 · **Forks**: 13 · **Open issues**: 30 · **Contributors**: 4
+- **Stars**: 375 · **Forks**: 13 · **Open issues**: 30 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -58,8 +70,8 @@ Total: **43,022** lines of code across **99** files in the top 5 languages.
 Install metadata for dotstate lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dotstate` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dotstate.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dotstate.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:08:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:55:51Z._

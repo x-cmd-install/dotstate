@@ -4,7 +4,7 @@
 
 A modern, secure, and user-friendly dotfile manager built with Rust
 
-![dotstate](https://repo.x-cmd.io/dotstate.svg)
+![dotstate](https://repo.x-cmd.io/dotstate.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,23 @@ x install dotstate
 - **最新版本**: `v0.3.4` (2026-05-17)
 - **最近提交**: 2026-07-08
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-05-17T09:09:18Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dotstate-aarch64-apple-darwin.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-aarch64-apple-darwin.tar.gz) | 8.0 MiB | `native/darwin/arm64` |
+| [dotstate-aarch64-apple-darwin.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-aarch64-apple-darwin.tar.gz.sha256) | 65 B | `native/darwin/arm64` |
+| [dotstate-aarch64-unknown-linux-musl.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-aarch64-unknown-linux-musl.tar.gz) | 9.2 MiB | `native/linux/arm64/musl` |
+| [dotstate-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-aarch64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/arm64/musl` |
+| [dotstate-x86_64-apple-darwin.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-apple-darwin.tar.gz) | 7.9 MiB | `native/darwin/x64` |
+| [dotstate-x86_64-apple-darwin.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-apple-darwin.tar.gz.sha256) | 65 B | `native/darwin/x64` |
+| [dotstate-x86_64-unknown-linux-musl.tar.gz](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-unknown-linux-musl.tar.gz) | 9.2 MiB | `native/linux/x64/musl` |
+| [dotstate-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/serkanyersen/dotstate/releases/download/v0.3.4/dotstate-x86_64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/x64/musl` |
 
 ## 流行度
 
-- **Star**: 377 · **Fork**: 13 · **开放 issue**: 30 · **贡献者**: 4
+- **Star**: 375 · **Fork**: 13 · **开放 issue**: 30 · **贡献者**: 4
 
 ## 累计统计
 
@@ -62,4 +74,4 @@ dotstate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:08:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:51Z._
