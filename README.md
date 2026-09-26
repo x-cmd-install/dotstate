@@ -38,7 +38,7 @@ Total: **43,690** lines of code across **103** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 377 · **Forks**: 13 · **Open issues**: 31 · **Contributors**: 4
+- **Stars**: 379 · **Forks**: 13 · **Open issues**: 31 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **43,690** lines of code across **103** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 0 | 0 | 1 | 0 | 6 |
-| last60d | 2026-07-27 | 1 | 0 | 0 | 1 | 0 | 6 |
-| 90d | 2026-06-27 | 1 | 0 | 0 | 1 | 0 | 9 |
-| last180d | 2026-03-29 | 4 | 1 | 1 | 5 | 2 | 24 |
-| 360d | 2025-09-30 | 44 | 24 | 1 | 29 | 2 | 288 |
-| last720d | 2024-10-05 | 44 | 24 | 1 | 29 | 2 | 296 |
+| 30d | 2026-08-27 | 1 | 0 | 0 | 1 | 0 | 6 |
+| last60d | 2026-07-28 | 1 | 0 | 0 | 1 | 0 | 6 |
+| 90d | 2026-06-28 | 1 | 0 | 0 | 1 | 0 | 9 |
+| last180d | 2026-03-30 | 4 | 1 | 1 | 5 | 2 | 24 |
+| 360d | 2025-10-01 | 44 | 24 | 1 | 29 | 2 | 288 |
+| last720d | 2024-10-06 | 44 | 24 | 1 | 29 | 2 | 296 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for dotstate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:20:43Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:23:05Z._
