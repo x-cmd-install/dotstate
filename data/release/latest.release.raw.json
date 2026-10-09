@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 9708844,
       "digest": "sha256:310e06346f365defe69f8fc9207563618a27fc91bf5cfae276003a6c602fa506",
-      "download_count": 101,
+      "download_count": 109,
       "created_at": "2026-09-23T01:59:31Z",
       "updated_at": "2026-09-23T01:59:32Z",
       "browser_download_url": "https://github.com/serkanyersen/dotstate/releases/download/v0.4.1/dotstate-x86_64-unknown-linux-musl.tar.gz"
