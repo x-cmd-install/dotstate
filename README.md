@@ -14,11 +14,11 @@ x install dotstate
 
 ## Code insight
 
-Total: **43,690** lines of code across **103** files in the top 5 languages.
+Total: **43,807** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 36,007 | 3,017 | 5,252 | 95 |
+| Rust | 36,124 | 3,021 | 5,269 | 96 |
 | Json | 5,982 | 0 | 0 | 3 |
 | Css | 1,066 | 29 | 28 | 1 |
 | Sh | 383 | 20 | 40 | 2 |
@@ -33,27 +33,27 @@ Total: **43,690** lines of code across **103** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.1` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-10-15
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 383 · **Forks**: 15 · **Open issues**: 33 · **Contributors**: 4
+- **Stars**: 383 · **Forks**: 15 · **Open issues**: 34 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 24 · **Open PRs**: 5 · **Closed issues**: 29 · **Open issues**: 4 · **Commits**: 296
+- **Releases**: 44 · **Merged PRs**: 29 · **Open PRs**: 2 · **Closed issues**: 30 · **Open issues**: 4 · **Commits**: 301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 0 | 4 | 0 | 2 | 6 |
-| last60d | 2026-08-16 | 1 | 0 | 4 | 1 | 2 | 6 |
-| 90d | 2026-07-17 | 1 | 0 | 4 | 1 | 2 | 6 |
-| last180d | 2026-04-18 | 3 | 0 | 5 | 4 | 4 | 24 |
-| 360d | 2025-10-20 | 44 | 24 | 5 | 29 | 4 | 288 |
-| last720d | 2024-10-25 | 44 | 24 | 5 | 29 | 4 | 296 |
+| 30d | 2026-09-16 | 1 | 5 | 1 | 1 | 2 | 11 |
+| last60d | 2026-08-17 | 1 | 5 | 1 | 2 | 2 | 11 |
+| 90d | 2026-07-18 | 1 | 5 | 1 | 2 | 2 | 11 |
+| last180d | 2026-04-19 | 3 | 5 | 2 | 5 | 4 | 29 |
+| 360d | 2025-10-21 | 44 | 29 | 2 | 30 | 4 | 293 |
+| last720d | 2024-10-26 | 44 | 29 | 2 | 30 | 4 | 301 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for dotstate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:02:41Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:53:18Z._
