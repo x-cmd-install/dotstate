@@ -48,12 +48,12 @@ Total: **43,807** lines of code across **104** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 5 | 3 | 1 | 2 | 5 |
-| last60d | 2026-09-05 | 1 | 5 | 3 | 2 | 2 | 11 |
-| 90d | 2026-08-06 | 1 | 5 | 3 | 2 | 2 | 11 |
-| last180d | 2026-05-08 | 3 | 5 | 4 | 5 | 4 | 24 |
-| 360d | 2025-11-09 | 44 | 29 | 4 | 30 | 4 | 293 |
-| last720d | 2024-11-14 | 44 | 29 | 4 | 30 | 4 | 301 |
+| 30d | 2026-10-06 | 0 | 4 | 3 | 1 | 2 | 5 |
+| last60d | 2026-09-06 | 1 | 5 | 3 | 2 | 2 | 11 |
+| 90d | 2026-08-07 | 1 | 5 | 3 | 2 | 2 | 11 |
+| last180d | 2026-05-09 | 3 | 5 | 4 | 5 | 4 | 24 |
+| 360d | 2025-11-10 | 44 | 29 | 4 | 30 | 4 | 293 |
+| last720d | 2024-11-15 | 44 | 29 | 4 | 30 | 4 | 301 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for dotstate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:43:04Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:09:24Z._
