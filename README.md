@@ -38,22 +38,22 @@ Total: **43,807** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 389 · **Forks**: 16 · **Open issues**: 34 · **Contributors**: 5
+- **Stars**: 391 · **Forks**: 16 · **Open issues**: 34 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 29 · **Open PRs**: 4 · **Closed issues**: 30 · **Open issues**: 4 · **Commits**: 301
+- **Releases**: 44 · **Merged PRs**: 29 · **Open PRs**: 5 · **Closed issues**: 30 · **Open issues**: 4 · **Commits**: 301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 4 | 3 | 1 | 2 | 0 |
-| last60d | 2026-09-11 | 1 | 5 | 3 | 2 | 2 | 11 |
-| 90d | 2026-08-12 | 1 | 5 | 3 | 2 | 2 | 11 |
-| last180d | 2026-05-14 | 3 | 5 | 4 | 3 | 4 | 18 |
-| 360d | 2025-11-15 | 44 | 29 | 4 | 30 | 4 | 293 |
-| last720d | 2024-11-20 | 44 | 29 | 4 | 30 | 4 | 301 |
+| 30d | 2026-10-12 | 0 | 4 | 4 | 1 | 2 | 0 |
+| last60d | 2026-09-12 | 1 | 5 | 4 | 2 | 2 | 11 |
+| 90d | 2026-08-13 | 1 | 5 | 4 | 2 | 2 | 11 |
+| last180d | 2026-05-15 | 3 | 5 | 5 | 3 | 4 | 18 |
+| 360d | 2025-11-16 | 44 | 29 | 5 | 30 | 4 | 293 |
+| last720d | 2024-11-21 | 44 | 29 | 5 | 30 | 4 | 301 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for dotstate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:51:10Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:50:27Z._
