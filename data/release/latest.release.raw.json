@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8254387,
       "digest": "sha256:e26cbc8d46d94ca53bae9744dd02f34ceac833bfea7f52ccc842b939cb953716",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-23T01:58:05Z",
       "updated_at": "2026-09-23T01:58:06Z",
       "browser_download_url": "https://github.com/serkanyersen/dotstate/releases/download/v0.4.1/dotstate-x86_64-apple-darwin.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 9708844,
       "digest": "sha256:310e06346f365defe69f8fc9207563618a27fc91bf5cfae276003a6c602fa506",
-      "download_count": 331,
+      "download_count": 334,
       "created_at": "2026-09-23T01:59:31Z",
       "updated_at": "2026-09-23T01:59:32Z",
       "browser_download_url": "https://github.com/serkanyersen/dotstate/releases/download/v0.4.1/dotstate-x86_64-unknown-linux-musl.tar.gz"
